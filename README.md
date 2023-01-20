@@ -1,2 +1,3 @@
 # Hacettepe AIN Project Diabetic data classification
-Kemal Şahin 
+Kemal Şahin
+Tuncer Sivri
