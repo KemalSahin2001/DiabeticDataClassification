@@ -18,11 +18,7 @@ This Jupyter notebook contains a detailed analysis and model building process fo
 ## ⚙️ Installation
 Clone this repository to your local machine using:
 \`\`\`bash
-git clone [your-repo-link]
-\`\`\`
-To install the required libraries, run the following command:
-\`\`\`bash
-pip install -r requirements.txt
+git clone https://github.com/KemalSahin2001/DiabeticDataClassification
 \`\`\`
 
 ## 🚀 Usage
@@ -35,8 +31,5 @@ Contributions to this project are welcome. Special thanks to the contributors:
 
 If you wish to contribute, please fork the repository and submit a pull request.
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## 📬 Contact
-For any queries or discussions regarding this project, please reach out via [your contact method].
+For any queries or discussions regarding this project, please reach out via kmlshnbusiness@gmail.com.
